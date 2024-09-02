@@ -1,0 +1,5 @@
+# ignore these files and directories/folders
+.git/
+.venv/
+pandas/
+.DS_Store
